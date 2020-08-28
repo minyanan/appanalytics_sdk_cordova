@@ -1,4 +1,6 @@
 ## TalkingData App Analytics Cordova/PhoneGap SDK
+cordova plugin add https://github.com/minyanan/appanalytics_sdk_cordova.git
+
 App Analytics Cordova 平台 SDK 由`封装层`和`Native SDK`两部分构成，目前GitHub上提供了封装层代码，需要从 [TalkingData官网](https://www.talkingdata.com/spa/sdk/#/config) 下载最新版的 Android 和 iOS 平台 Native SDK，组合使用。
 
 ### 集成说明
